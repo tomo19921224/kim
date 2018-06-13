@@ -186,6 +186,5 @@
 		<div id="center">
 		</div>
 	</div>
-	tt
 </body>
 </html>
